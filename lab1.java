@@ -61,5 +61,4 @@ function sortStack(A) {
 
 
 
-git config --global user.email "lucas.bjork05@gmail.com"
-  git config --global user.name "MrDrum71"
+
